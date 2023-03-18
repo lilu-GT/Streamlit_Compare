@@ -63,7 +63,7 @@ Application Accounts
 ''', height=300)
     st.write("")
     st.write("")
-    qn = st.text_input('Question', 'Please write a story about my first day in AIPF')
+    qn = st.text_input('Question', 'Please write a story about my first day in GreatCompany')
  
     return context, qn
 
