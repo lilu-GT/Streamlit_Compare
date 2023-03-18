@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "openai-gpt-models"
+version = "0.1.0"
+description = ""
+authors = ["lilu-GT <lilu@dsaid.gov.sg>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+openai = "v0.27.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

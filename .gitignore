@@ -1,0 +1,11 @@
+*.pyc
+aws_access_key.json
+*-checkpoint.ipynb
+commands.txt
+.streamlit
+load_data.ipynb
+.DS_Store
+.venv
+__pycache__
+unused_pages
+README.rst
